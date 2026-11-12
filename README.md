@@ -173,10 +173,15 @@ Note: The folder structure above describes the intended organization. Dataset fi
 👨‍💻 Project Information
 
 Project Name: SmartWaste AI 3.0
+
 Student Name: G Smily
+
 Enrolment Number: 240160226157
+
 Department: Computer Science and Engineering – Artificial Intelligence and Machine Learning
+
 University: GD Goenka University
+
 Project Domain: Neural Networks and Deep Learning
 
 📜 Disclaimer
